@@ -4,7 +4,7 @@
 <p align="center">
 This project is targeted for the mass Sneaker Store management system around the company or further.
 Sneaker Store management is a very complex process which also need a very efficient management.
-it enhances correctness and reduces man power.
+it enhances correctness and reduces manpower.
 </p>
 
 ## Features
